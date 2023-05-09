@@ -1,0 +1,7 @@
+.app{
+  width: 300px; /* Set the width of the box */
+   margin: 0 auto; /* Set the left and right margin to auto */
+   border: 2px solid black;
+   border-radius: 5px;
+   margin-top: 5px;
+}
